@@ -17,6 +17,7 @@ Currently I'm working on one main projects:
 <a href="mailto:discord.sayler@gmail.com">
   <img align="left" alt="discord.sayler gmail" src="https://img.shields.io/badge/-discord.sayler@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
 </a>
+<h4> </h4>
 <a href="https://discord.com/channels/@me/448834616636211200">
   <img align="left" alt="Sayler#5576" src="https://img.shields.io/badge/-Sayler5576-355FEA?style=flat-                      square&logo=Discord&logoColor=white" />
 </a>
