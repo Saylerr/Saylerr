@@ -17,5 +17,8 @@ Currently I'm working on one main projects:
 <a href="mailto:discord.sayler@gmail.com">
   <img align="left" alt="olix3001's gmail" src="https://img.shields.io/badge/-discord.sayler@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
 </a>
+<a href="https://discord.com/channels/@me/448834616636211200">
+  <img align="left" alt="olix3001's gmail" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscord.com%2Fbranding&psig=AOvVaw3YxlmGcfMyg6aT5gpUnVzz&ust=1676741679450000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMj_ptSLnf0CFQAAAAAdAAAAABAE" />
+</a>
 
 <br/>
