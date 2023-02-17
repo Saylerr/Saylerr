@@ -9,13 +9,13 @@
 </p>
 
 <h3>What I'm working on now</h3>
-Currently I'm working on two main projects:
+Currently I'm working on one main projects:
 
 - RustMC: Minecraft Rust server
 
 <h3>Contact</h3>
-<a href="mailto:Sayler#5576">
-  <img align="left" alt="discord.sayler's gmail" src="https://img.shields.io/badge/-Sayler#5576-EA4335?style=flat-                      square&logo=Discord&logoColor=white" />
+<a href="mailto:discord.sayler@gmail.com">
+  <img align="left" alt="olix3001's gmail" src="https://img.shields.io/badge/-discord.sayler@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
 </a>
 
 <br/>
