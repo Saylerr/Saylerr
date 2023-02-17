@@ -18,7 +18,7 @@ Currently I'm working on one main projects:
   <img align="left" alt="discord.sayler gmail" src="https://img.shields.io/badge/-discord.sayler@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/channels/@me/448834616636211200">
-  <img align="left" alt="Sayler#5576" src="https://img.shields.io/badge/-Sayler5576-EA4335?style=flat-%20square&logo=Discord&logoColor=white" />
+  <img align="left" alt="Sayler#5576" src="img.shields.io/badge/-Sayler5576-355FEA?style=flat-%20square&logo=Discord&logoColor=white" />
 </a>
 
 <br/>
