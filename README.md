@@ -10,7 +10,7 @@
 
 <h2>Current Projects</h2>
 <ul>
-  <li><strong>Acure-Duels:</strong> A minecraft PVP server.</li>
+  <li><strong>Acure-Duels:</strong> A minecraft PVP plugin.</li>
   <li><strong>RustMC:</strong> A Minecraft server implemented in Rust.</li>
   <li><strong>SL-Rat:</strong> A Remote Access Control Application for private use and experimentation.</li>
 </ul>
